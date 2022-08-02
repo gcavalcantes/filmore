@@ -9,7 +9,6 @@ function App() {
   return (
     <div className="app-container">
       <Navbar />
-      <h2>Movies library</h2>
       <Outlet></Outlet>
     </div>
   )
